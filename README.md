@@ -1,4 +1,4 @@
-# 🍽️ ItalianGourmet
+# 🍽️  ItalianGourmet
 
 **`Jr. Java Dev`**
 
