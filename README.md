@@ -2,7 +2,7 @@
 
 **`Jr. Java Dev`**
 
-Hello, I'm Gourmet. Welcome to my GitHub page. There's not much to see here as most of my projects are private. If you want to get in touch, my is italian_gourmet!
+Hello, I'm Gourmet. Welcome to my GitHub page. There's not much to see here as most of my projects are private. If you want to get in touch, my discord is italian_gourmet!
 
 
 ---
