@@ -28,12 +28,3 @@ In addition to reverse engineering, I’ve developed **custom plugins** and **ap
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" />
 <br />
 
-#
-
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/121/12161.gif">
-</p>
-<br>
-<br>
-<br>
-
