@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm a passionate developer from Italy, focused on building scalable and efficient applications. I enjoy working with modern technologies and exploring new tools to solve real-world problems. <br><br>Feel free to check out my repositories and don't hesitate to reach out if you're interested in working together or just want to chat about tech!</p>
+<p align="left">
+I am an Italian student passionate about computer science. I’ve explored various areas of computer science to get a broad view and figure out my specialization. I started with Java, then moved to C++ with debugging tools like GDB and Ghidra to understand code internally. I wrote small x64 Assembly programs to deepen my low-level knowledge. I also studied networking basics to understand packet operations. Now, when coding, I usually have an idea of where bugs might originate from.
+</p>
 
 ###
 
@@ -24,8 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/frapank/frapank/output/snake.svg" alt="Snake animation" />
-
-###
