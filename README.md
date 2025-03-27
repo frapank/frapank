@@ -6,9 +6,7 @@
 
 ###
 
-<p align="left">
-I am an Italian student passionate about computer science. I’ve explored various areas of computer science to get a broad view and figure out my specialization. I started with Java, then moved to C++ with debugging tools like GDB and Ghidra to understand code internally. I wrote small x64 Assembly programs to deepen my low-level knowledge. I also studied networking basics to understand packet operations. Now, when coding, I usually have an idea of where bugs might originate from.
-</p>
+<p align="left">I'm a passionate developer from Italy, focused on building scalable and efficient applications. I enjoy working with modern technologies and exploring new tools to solve real-world problems. <br><br>Feel free to check out my repositories and don't hesitate to reach out if you're interested in working together or just want to chat about tech!</p>
 
 ###
 
@@ -17,12 +15,15 @@ I am an Italian student passionate about computer science. I’ve explored vario
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
+###
