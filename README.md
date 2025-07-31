@@ -36,9 +36,3 @@ Feel free to check out my repositories and donâ€™t hesitate to reach out if youâ
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=frapank&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20stats:" height="200" alt="stats graph"  />
-</div>
-
-###
