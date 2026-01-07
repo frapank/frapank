@@ -1,14 +1,9 @@
 ## About
+[![YouTube](https://img.shields.io/badge/YouTube-LainerWired-red?logo=youtube)](https://www.youtube.com/@LainerWired)
 
 I'm Francesco (online: "Gourmet").  
 I study how computers work at a low level. I read and experiment with systems programming topics.  
 I use Linux as my daily environment.
-
-## Interests
-
-- Operating systems
-- Low-level programming
-- Tooling and editors
 
 ## Languages / Tools
 
