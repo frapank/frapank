@@ -1,6 +1,5 @@
 ## In a Nutshell
 
-I'm Francesco (online: "Gourmet").  
 I explore how computers work at a low level and enjoy experimenting with systems programming.  
 My focus areas include operating systems, low-level optimization, and performance tuning.  
 I use Linux as my daily environment and love mastering tools that make programming efficient.
