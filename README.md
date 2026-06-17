@@ -5,7 +5,7 @@ My focus areas include operating systems, low-level optimization, and performanc
 I use Linux as my daily environment and love mastering tools that make programming efficient.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="35" alt="rust logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img width="10" />
@@ -13,9 +13,10 @@ I use Linux as my daily environment and love mastering tools that make programmi
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vim" height="35" alt="vim logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
 </div>
